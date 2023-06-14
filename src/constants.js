@@ -1,0 +1,1 @@
+export const STORAGE_NAME = 'TODOS_V1';

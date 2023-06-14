@@ -1,0 +1,20 @@
+.todoItem {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 1rem;
+  justify-content: space-between;
+}
+
+.todoItem > p {
+  width: 100%;
+  text-align: left
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+button {
+  color: #fff;
+}

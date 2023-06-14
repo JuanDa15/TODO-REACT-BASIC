@@ -1,0 +1,18 @@
+.modal-wrapper {
+  position:  absolute;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  background-color: #61616179;
+  display: grid;
+  place-items: center;
+}
+
+.modal {
+  position:  absolute;
+  background-color: #272727;
+  color: #fff;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
